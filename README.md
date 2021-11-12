@@ -8,3 +8,5 @@ Professor: [Maykon Granemann](https://github.com/maykondgranemann)
 | 10/11/2021 | Data Definition Language | [ATP41](https://github.com/rebeccamoraes/ScriptsSQL/blob/main/atp41.sql) |
 | 10/11/2021 | Data Manipulation Language | [ATP42](https://github.com/rebeccamoraes/ScriptsSQL/blob/main/atp42.sql) |
 | 10/11/2021 | Data Query Language | [ATP43](https://github.com/rebeccamoraes/ScriptsSQL/blob/main/atp43.sql) |
+| 10/11/2021 | Data Transaction Language | [ATP44](https://github.com/rebeccamoraes/ScriptsSQL/blob/main/atp44.sql) |
+| 10/11/2021 | Revisão Banco de Dados | [ATP45](https://github.com/rebeccamoraes/ScriptsSQL/blob/main/atp45.sql) |
